@@ -1,0 +1,7 @@
+customtkinter
+opencv-python
+mss
+keyboard
+pywin32
+pystray
+Pillow
